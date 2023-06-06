@@ -6,7 +6,7 @@
 	<groupId>br.com.songomes</groupId>
 	<artifactId>treinamentojava</artifactId>
 	<version>0.0.1-SNAPSHOTOPA</version>
-
+	<!-- TESTE 456 -->
 	<properties>
 		<demoiselle.version>2.4.2</demoiselle.version>
 		<bsDemoiselle.core.version>3.4.0</bsDemoiselle.core.version>
